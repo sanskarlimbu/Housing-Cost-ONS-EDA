@@ -1,1 +1,3 @@
-# Exploratory Data analysis 
+# Exploratory Data analysis of Housing costs according to ONS data
+
+With the cost of living crisis becoming a major issue felt by so many in the UK, I wanted to explore this through the lens of housing costs. While housing is a core issue involved in rising costs, this exploratory data project lacked some foresight for problems in analysis; one such being that the the ONS data only looked at average sold housing, rather than market price, meaning the data would likely not show the true extent of the crisis as people who are priced out would either not buy a new house at all or rent. Oversights like these, are what I believe led to a rather unsatisfying result but nonetheless gave insights into the complexity of quantitative analysis of these societal issues.
